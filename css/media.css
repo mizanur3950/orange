@@ -1,0 +1,619 @@
+@media (max-width: 1199px) {
+	
+	/*Common CSS*/
+	.navbar-nav .nav-link {
+		font-size: 12px;
+	}
+
+
+	/*Home Page*/
+	.hero_text h1 {
+	    font-size: 35px;
+	}
+
+	.side_logo {
+	    bottom: 38%;
+	}
+
+	/*About Page */
+	.about-us .content {
+	    padding-right: 4%;
+	}
+
+	.doctor-about img {
+	    width: 60%;
+	}
+
+	/* Benifits Page CSS	*/
+
+	.benifits-included h5,
+	.labtest h3 {
+		font-size: 28px;
+	}
+
+	.bmp-first, .cmp-first {
+	    margin-right: 70px;
+	}
+
+	.pharmacy h3 {
+	    font-size: 32px;
+	}
+
+	.pharmacy h4 {
+	    font-size: 24px;
+	}
+
+	/*Footer CSS*/
+	.footer-bottom h6 {
+	    font-size: 16px;
+	}
+}
+
+
+@media (max-width: 992px) {
+
+	/*Common CSS*/
+	.navbar {
+	    padding: 10px;
+	}
+
+	.navbar-nav .nav-link {
+		font-size: 16px;
+    	padding: 14px;
+	}
+
+
+	/*Home page*/
+	.hero_text h1 {
+	    font-size: 35px;
+	}
+
+	.hero_text p {
+	    padding: 0 5%;
+	}
+	.our-plan .card-body h4 {
+	    font-size: 18px;
+	}
+
+	.our-plan .card {
+	    min-height: 360px;
+	    margin-bottom: 30px;
+	}
+
+	.why-choose-us h6 {
+	    padding: 0px 5%;
+	}
+
+	.video_player {
+	    margin: 0 3%;
+	    margin-top: 50px;
+	}
+
+	.side_logo {
+	    bottom: 32%;
+	}
+
+	.footer-disclaimer p {
+	    line-height: 24px;
+	    font-size: 13px;
+	}
+
+
+	/*About US Page*/
+
+	.doctor-about img {
+	    width: 40%;
+	}
+
+	.about-us h3, 
+	.mission h3,
+	.testimonial h3 {
+	    font-size: 30px;
+	}
+
+	.about-us p,
+	.mission p {
+	    font-size: 14px;
+	}
+
+	.page_name {
+		font-size: 22px;
+	}
+
+	.page_sitemap {
+		font-size: 15px;
+	}
+
+	.doctor-about,
+	.mission .mission-content {
+		margin-bottom: 60px;
+	}
+
+	.about-us .content,
+	.mission .mission-content {
+		text-align: center;
+		padding: 0 10%;
+	}
+
+	.about-us h3:after, .mission h3:after {
+	    left: 50%;
+	    transform: translate(-50%);
+	}
+
+
+	/*Benifits Page CSS */
+	.benifits-included h5, .labtest h3 {
+	    font-size: 23px;
+	}
+
+	.benifits-included ul li,
+	.bmp-first li, .bmp li, 
+	.cmp-first li, .cmp li {
+	    font-size: 16px;
+	}
+
+	.labtest .btn-test,
+	.labtest .costs li,
+	.bmp-test, 
+	.cmp-test {
+	    font-size: 16px;
+	}
+
+	.bmp-first {
+		margin-right: 35px;
+	}
+
+	.cmp-first {
+		margin-right: 0;
+	}
+
+
+	/*Plan Options Page*/
+	.page_name {
+		font-size: 18px;
+	}
+
+	.page_sitemap  {
+		font-size: 14px;
+	}
+
+	.plan_heading {
+	    font-size: 24px;
+	}
+
+	.plan_copy {
+	    font-size: 14px;
+	    padding-right: 11%;
+	}
+
+	.plan_content h5 {
+	    font-size: 17px;
+	}
+
+	.btn-sign-register {
+	    font-size: 13px;
+	    padding: 15px 34px;
+	}
+
+	.contact-us h2 {
+	    font-size: 21px;
+	}
+
+	.btn-call {
+	    font-size: 17px;
+	}
+
+	/*Members Page*/
+	.members h3 {
+		margin-bottom: 60px;
+	}
+
+	.members_logo img {
+		width: 80%;
+	}
+
+	/*Agents Page CSS*/
+	.agents .content {
+	    padding-right: 5%;
+	}
+
+	/*Footer CSS */
+	footer p {
+	    line-height: 23px;
+	    font-size: 14px;
+	}
+
+	footer .links li {
+	    margin-bottom: 14px;
+	}
+
+	footer .links li a {
+	    font-size: 13px;
+	}
+
+	.footer-bottom h6 {
+	    font-size: 12px;
+	}
+
+	.footer-bottom .nav-link {
+	    font-size: 12px;
+	}
+
+
+}
+@media (max-width: 768px) {
+	
+	.page_name {
+	    font-size: 32px;
+    	margin-bottom: 30px;
+	}
+
+	.page_sitemap {
+		font-size: 18px;
+	}
+
+	.page-title {
+		text-align: center;
+		margin-bottom: 50px;
+	}
+
+	.page_name:after {
+		left: 50%;
+		transform: translate(-50%);
+	}
+
+	.search_field form {
+		float: none;
+		display: block;
+	    width: 80%;
+	    margin: 0 auto;
+	}
+	
+
+	.about-us h3, .mission h3, .testimonial h3 {
+	    font-size: 21px;
+	}
+
+
+
+	/*Home Page*/
+	.social {
+	    right: -75px;
+	}
+
+	.hero_text p {
+	    padding: 0 0%;
+	}
+
+	.service_box {
+		text-align: center;
+	}
+
+	.service_box img {
+		margin-bottom: 20px;
+	}
+
+	.video_player {
+	    margin: 0;
+	    min-height: 350px;
+	}
+
+
+	/*About US Page */
+	#testimonial .item {
+	    min-height: 250px;
+	}
+
+
+	/*Benifits Page CSS */
+	.benifits-included h5, .labtest h3 {
+	    font-size: 17px;
+	}
+
+	.benifits-included ul li,
+	 .bmp-first li,
+	  .bmp li, 
+	  .cmp-first li, 
+	  .cmp li,
+	  .labtest .tests li {
+	    font-size: 13px;
+	}
+
+	.labtest .btn-test, .labtest .costs li, .bmp-test, .cmp-test {
+	    font-size: 11px;
+	}
+
+	.pharmacy h3 {
+	    font-size: 26px;
+	}
+
+	.pharmacy h4 {
+	    font-size: 20px;
+	}
+
+
+	/*Plan Options Page */
+
+	.contact-us h2 {
+	    margin-right: 0;
+	    text-align: center;
+	}
+
+	.btn-call {
+	    display: block;
+	    margin: 0 auto;
+	}
+
+	/*Agents Page CSS*/
+	.agents .content h2 {
+	    font-size: 28px;
+	}
+
+
+	/*Footer CSS*/
+
+	footer,
+	.footer-disclaimer {
+		text-align: center;
+	}
+
+	.footer-box-last {
+	   float: none;
+	}
+
+	.footer-bottom h6 {
+	    text-align: center;
+	}
+
+	.footer-bottom .nav {
+	    float: none;
+	    width: 51%;
+	    margin: 0 auto;
+	}
+
+	.testimonial .owl-carousel .owl-nav.disabled {
+	    position: absolute;
+	    top: -70px;
+	    right: 0;
+	}
+
+
+}
+
+@media (max-width: 576px) {
+
+	/*.search_field form {
+		float: none;
+	    display: block;
+	    width: 50%;
+	    margin: 0 auto;
+	}*/
+
+
+	/*Home Page*/
+	.social {
+	    right: -50px;
+	}
+
+	.our-plan .card {
+	    min-height: 420px;
+	}
+
+	.side_logo {
+	    bottom: 26%;
+	}
+
+	.video_player {
+	    margin-top: 50px;
+	}
+
+	/*About US Page*/
+	
+	.testimonial .owl-carousel .owl-item img {
+		display: block;
+	    margin: 0 auto;
+	    margin-bottom: 30px;
+	}
+
+	#testimonial p {
+		text-align: center;
+	}
+	
+	#testimonial h6 {
+		left: 50%;
+		transform: translate(-50%);
+	}
+
+	/*Benifits Page CSS */
+	.benifits-included h5, .labtest h3 {
+	    font-size: 22px;
+	    text-align: center;
+	}
+
+	.labtest {
+	    padding: 0 10%;
+	    margin-top: 50px;
+	}
+
+	.benifits h5:after, 
+	.labtest h3:after {
+	    left: 50%;
+	    transform: translate(-50%);
+	}
+
+	.labtest .tests,
+	.labtest .costs {
+		display: block;
+		width: 50%;
+		margin: 0 auto;
+	}
+
+	.labtest .tests {
+		margin-bottom: 30px;
+	}
+
+	.tsh {
+	    padding-left: 41px;
+	}
+
+	.urinal {
+	    padding-left: 38px;
+	}
+
+	.bmp-content {
+		width: 53%;
+	    display: block;
+	    margin: 0 auto;
+	}
+
+	.cmp-content {
+		width: 53%;
+	    display: block;
+	    margin: 0 auto;
+	}
+
+	/*Plan Options Page */
+	.plan_heading {
+	    font-size: 20px;
+	}
+
+	
+	.plan_content .card {
+	     min-height: 150px; 
+	}
+
+	.plan_content ul {
+		padding-bottom: 80px;
+	}
+
+	/*Members Page*/
+	.members h3 {
+		font-size: 24px;
+	}
+
+	.members .card {
+		margin: 30px;
+	}
+
+	/*Agents Page CSS */
+	.agents .content {
+	    text-align: center;
+	    padding: 0 10%;
+	}
+
+
+	/*Footer Section*/
+	footer {
+		text-align: center;
+	}
+
+	.footer-bottom .nav {
+	    /*width: %;*/
+	}
+
+}
+
+
+@media (max-width: 320px) {
+	
+	/*Common CSS*/
+	.navbar-brand img {
+		width: 60%;
+	}
+
+	/*Home Page*/
+	.side-logo {
+		display: none;
+	}
+
+	.hero_text h1 {
+	    font-size: 21px;
+	}
+
+	.hero_text p {
+	   	font-size: 14px;
+	   	line-height: 24px;
+	}
+
+	.social {
+	    right: -80px;
+	}
+
+	.hero_text p span {
+	    font-size: 16px;
+	}
+
+	.hero_text h5 {
+	    font-size: 16px;
+	}
+
+	.btn-hero {
+	    padding: 10px 22px;
+	}
+
+	.our-plan .card {
+	    min-height: 325px;
+	}
+
+
+	/*About US PAge*/
+	/*.search_field form {
+	    width: 83%;
+	}*/
+
+
+	.about-us h3, .mission h3, .testimonial h3 {
+	    font-size: 20px;
+	}
+
+	.testimonial h3:after {
+	    top: 60px;
+	}
+
+		/*Benifits Page CSS */
+
+	.benifits-included h5, .labtest h3 {
+	    font-size: 17px;
+	}
+
+	.labtest .tests, 
+	.labtest .costs {
+	    width: 82%;
+	}
+
+	.bmp-content,
+	.cmp-content {
+	    width: 100%;
+	}
+
+	.pharmacy h3 {
+	    font-size: 24px;
+	}
+
+	.pharmacy h4 {
+	    font-size: 18px;
+	}
+
+
+	/*Plan Options Page*/
+	.btn-sign-register {
+	    font-size: 14px;
+	    padding: 15px 20px;
+	}
+
+	/*Members Page*/
+	.members h3 {
+	    font-size: 15px;
+	}
+
+	/*Centers Page CSS */
+	.centers-content {
+	    width: 290px;
+	}
+
+
+	/*Footer CSS*/
+	.footer-bottom .nav {
+	    width: 89%;
+	}
+}
